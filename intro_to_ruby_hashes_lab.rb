@@ -17,7 +17,7 @@ end
 def id_generator
   # return a hash with a key :id assigned to positive integer
   hash = {
-    id: 
+    id: rand
   }
 end
 
